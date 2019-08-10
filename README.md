@@ -1,2 +1,2 @@
-# gh-page
+# blog
 blog demo
